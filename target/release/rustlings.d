@@ -1,0 +1,1 @@
+/home/aladin/rustlings/target/release/rustlings: /home/aladin/rustlings/src/exercise.rs /home/aladin/rustlings/src/main.rs /home/aladin/rustlings/src/run.rs /home/aladin/rustlings/src/ui.rs /home/aladin/rustlings/src/verify.rs
